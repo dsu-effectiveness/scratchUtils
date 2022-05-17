@@ -2,8 +2,8 @@ Package: scratchUtils
 Title: utUtils
 Version: 0.0.0.9000
 Authors@R: c(
-    person("LeVoy", "Canfield",email = "levoy.canfield@utahtech.com", role = c("aut", "cre")),
-    person("Matt", "Nickodemus", email = "matt.nickodemus@utahtech.com", role = c("aut", 'cre')),
+    person("LeVoy", "Canfield", email = "levoy.canfield@utahtech.com", role = c("aut", "cre")),
+    person("Matt", "Nickodemus", email = "matt.nickodemus@utahtech.com", role = "aut")
     )
 Description: This package contains utility functions used by the 
     Institutional Effectiveness Office at Utah Tech University.
