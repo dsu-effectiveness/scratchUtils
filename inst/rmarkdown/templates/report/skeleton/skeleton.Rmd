@@ -1,0 +1,23 @@
+---
+title: "Report Template"
+author: "Matt"
+date: "The Date"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r setup, include=FALSE}
+library(knitr)
+library(here)
+library(tidyverse)
+library(DT)
+```
+
+## Section 1
+
+## Section 2
+
+
